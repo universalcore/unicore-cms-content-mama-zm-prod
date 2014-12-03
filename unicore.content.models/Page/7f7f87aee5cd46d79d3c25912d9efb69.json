@@ -1,17 +1,17 @@
 {
   "subtitle": "Watch out! There\u2019s a baby about", 
   "description": "Watch out! There\u2019s a baby about", 
-  "language": "eng_UK", 
+  "language": "eng_GB", 
   "title": "8 months old", 
   "primary_category": "4eafe002ebea4c7a97a7743183f70de1", 
   "created_at": "2014-10-10T08:55:49+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2014-11-17T11:33:24.102167+00:00", 
+  "modified_at": "2014-12-03T12:39:37.697638+00:00", 
   "_version": {
     "package_version": "0.2.5", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -19,8 +19,11 @@
   "content": "Created by BabyCenter By now, he may have started crawling, or shuffling on\r\nhis bottom. When your baby is mobile, he will start to have bumps and falls.\r\nThis is part of growing up. Enjoy watching him explore and discover his\r\nlimits. He will learn for himself in a safe environment. Your baby is learning\r\nabout objects by shaking, banging, dropping, and throwing them. He\u2019s learning\r\nabout what he can do to an object. Your baby will start to show interest in\r\nthings you use. Slowly, he will start to use objects properly. You may find\r\nhim trying to brush his hair or drink from a cup. Your baby's vision is much\r\nclearer now. He can see almost as well as you. Now he can recognise people and\r\nobjects across a room. He may see a toy on the other side of the room and try\r\nto crawl towards it. His eyes are close to their final colour, too, though you\r\nmay see small changes later. Soon, your baby will start to stand and move\r\naround the room by holding onto walls and furniture.\r\n\r\n", 
   "source": null, 
   "featured": false, 
+  "author_tags": [], 
+  "image": null, 
   "published": true, 
   "position": 8, 
+  "image_host": "http://qa.thumbor.unicore.io", 
   "slug": "8-months-old", 
   "uuid": "7f7f87aee5cd46d79d3c25912d9efb69"
 }
